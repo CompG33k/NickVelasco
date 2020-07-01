@@ -3,7 +3,7 @@ var __wpo = {
     "main": [
       "/favicon.ico",
       "/61ac2421c4691dfcd926f9b964d97990.jpg",
-      "/runtime.8482dce51d20157ba8a6.js",
+      "/runtime.8ac2014292cc4461c1c3.js",
       "/"
     ],
     "additional": [
@@ -48,18 +48,18 @@ var __wpo = {
     "2c0e079e87de19e2924267177f7f5de948c9f360": "/npm.react-app-polyfill.d83cf03d7d0271d66d4d.chunk.js",
     "337ddbf8007e81fe929d1417afb4180448d89822": "/npm.react-intl.09fde717d9b253bae879.chunk.js",
     "fbef96dc61056888b41209fc25e01e707b9fdd29": "/npm.react-redux.10b7364a3b0289a2c902.chunk.js",
-    "d3b575fde45be78d0a3e4eb659c38de65c6aaee9": "/runtime.8482dce51d20157ba8a6.js",
+    "adf9432d5b19f4fb1c249c19af5929d54b336f45": "/runtime.8ac2014292cc4461c1c3.js",
     "6cb5c4b4e440cc49d06376ea8020e6814c048343": "/15.8672533fd0544cb3237e.chunk.js",
     "2fbfae664e74c7d1f4ba0c07ddeb0e5d86937757": "/16.5e54f4cf5fb8556d8438.chunk.js",
     "679527dae1d6c58398716fc912c3c0c8d256f453": "/17.00609f2647fb5b68c759.chunk.js",
     "608ede8ab06676f518c8280202c269fa3dc3038c": "/18.270ce4034a6062e548e3.chunk.js",
     "0af7c951274c3c02cd73cf35646001f3c517beff": "/19.1e073e669f7a20011b6a.chunk.js",
     "1ef76c8321632188c86874cbcf8028e412e330a0": "/20.13f7783f642aaa0ed817.chunk.js",
-    "bc4c4d323bd15f07aff99435e2bcf5e0e18c2130": "/"
+    "0a5bd6643c455db02a27a53d3e0dcca881492eae": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "7/1/2020, 4:13:32 PM",
+  "version": "7/1/2020, 4:44:58 PM",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -144,7 +144,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/NickVelasco/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
